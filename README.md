@@ -8,17 +8,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migodi15&layout=compact&theme=default&langs_count=10" alt="Top Langs" />
 </div>
 
+
+- 🔭 I’m currently working with **Java**.
+- 
+- 🌱 I’m currently learning **Python**.
+
+- 📫 How to reach me **gomezdiazmireia@gmail.com**
+
+- <a href="https://www.linkedin.com/in/mireia-gómez-diaz-4322221b0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mireia Gómez Diaz" height="20" width="30" />Mireia Gómez Diaz</a> 
+
 <!--
 **migodi15/migodi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
