@@ -1,4 +1,12 @@
-### Hi there 👋
+<h2 align="center">Hi there 👋, I'm Mireia Gómez Diaz </h2>
+<h3 align="center">a graduate in mathematics and currently studying Data Science.</h3>
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=migodi15" alt="Top Langs" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migodi15&layout=compact&theme=default&langs_count=10" alt="Top Langs" />
+</div>
 
 <!--
 **migodi15/migodi15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
