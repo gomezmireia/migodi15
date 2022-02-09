@@ -10,7 +10,7 @@
 
 
 - 🔭 I’m currently working with **Java**.
-- 
+
 - 🌱 I’m currently learning **Python**.
 
 - 📫 How to reach me **gomezdiazmireia@gmail.com**
