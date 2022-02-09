@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋, I'm Mireia Gómez Diaz </h2>
-<h3 align="center">a graduate in mathematics and currently studying Data Science.</h3>
+<h3 align="center">a graduate in Mathematics and currently studying Data Science.</h3>
 
 
 <div align="center">
