@@ -1,21 +1,17 @@
-<h2 align="center">Hi there 👋, I'm Mireia Gómez Diaz </h2>
-<h3 align="center">a graduate in Mathematics and currently studying Data Science 🚀</h3>
+<h2 align="left">Hi! Welcome to my profile 👋 </h2>
+<h3 align="left"> Mireia Gómez Diaz </h3>
+I am a mathematician who loves programming 💻 and learning about new technologies. I am currently working as a backend developer in **Java** 🌱 and studying an Advanced Analytics & Data Science Master 🚀 
 
+- You can reach me here: **gomezdiazmireia@gmail.com**
+
+- Or visit my LinkedIn profile <a href="https://www.linkedin.com/in/mireia-gómez-diaz-4322221b0/" target="blank"> Mireia Gómez Diaz <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mireia Gómez Diaz" height="20" width="30" /></a> 
+
+<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=migodi15" alt="Top Langs" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migodi15&layout=compact&theme=default&langs_count=10" alt="Top Langs" />
 </div>
-
-- 🔭 I’m currently working with **Java**.
-
-- 🌱 I’m currently learning **Python**.
-
-- 📫 How to reach me **gomezdiazmireia@gmail.com**
-
-- <a href="https://www.linkedin.com/in/mireia-gómez-diaz-4322221b0/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Mireia Gómez Diaz" height="20" width="30" />Mireia Gómez Diaz</a> 
-
-
 
 <!--
 - 👯 I’m looking to collaborate on ...
@@ -23,5 +19,5 @@
 - 💬 Ask me about ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-✨
+✨  🔭 
 -->
