@@ -8,8 +8,10 @@ I am a mathematician who loves programming 💻 and learning about new technolog
 
 <br>
 <div align="center">
+  <!--
   <img src="https://github-readme-stats.vercel.app/api?username=migodi15" alt="Top Langs" />
   <br>
+  -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migodi15&layout=compact&theme=default&langs_count=10" alt="Top Langs" />
 </div>
 
