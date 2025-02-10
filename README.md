@@ -1,6 +1,8 @@
 <h2 align="left"> Hi! Welcome to my profile 👋 </h2>
 <h3 align="left"> Mireia Gómez Diaz </h3>
-I am a mathematician who loves programming 💻 and learning about new technologies 🚀 I am currently working as a Data Science Analyst at PepsiCo at the Agro team 🌱 
+I am a mathematician based in Barcelona who loves programming 💻 and learning about new technologies 🚀
+
+I am currently working as a Data Science Analyst at PepsiCo, at the Agro team 🌱 
 
 - You can reach me here: **gomezdiazmireia@gmail.com**
 
@@ -9,10 +11,10 @@ I am a mathematician who loves programming 💻 and learning about new technolog
 <br>
 <div align="center">
   <!--
-  <img src="https://github-readme-stats.vercel.app/api?username=migodi15" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gomezmireia" alt="Top Langs" />
   <br>
   -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migodi15&layout=compact&theme=default&langs_count=10" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gomezmireia&layout=compact&theme=default&langs_count=10" alt="Top Langs" />
 </div>
 
 <!--
